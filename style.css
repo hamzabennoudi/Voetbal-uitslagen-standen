@@ -1,0 +1,33 @@
+table{
+color: rgb(8, 4, 126);
+border-collapse: collapse;
+box-shadow: 2px 2px 12px rgba(0, 0, 0 , 0.2), -1px -1px 8px rgba(0, 0, 0 , 0.2);
+}
+
+body{
+background-image: url("Image/eredivsie.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position-x: 50%;
+background-position-y: 25%;
+background-size: 50%;
+position: relative;
+left: 100px;
+top: 300px;
+}
+
+.punten{
+ position: relative;
+ left:1100px;
+ bottom: 850px;
+}
+
+.score{
+position: relative;
+right: 50px;
+bottom: 275px;
+}
+
+::-webkit-scrollbar {
+    all:initial;
+}
